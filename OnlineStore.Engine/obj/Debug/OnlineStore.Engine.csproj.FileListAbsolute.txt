@@ -1,0 +1,5 @@
+C:\Users\vsalazar\Desktop\onlineStore\OnlineStore.Engine\bin\Debug\OnlineStore.Engine.dll
+C:\Users\vsalazar\Desktop\onlineStore\OnlineStore.Engine\bin\Debug\OnlineStore.Engine.pdb
+C:\Users\vsalazar\Desktop\onlineStore\OnlineStore.Engine\obj\Debug\OnlineStore.Engine.csprojResolveAssemblyReference.cache
+C:\Users\vsalazar\Desktop\onlineStore\OnlineStore.Engine\obj\Debug\OnlineStore.Engine.dll
+C:\Users\vsalazar\Desktop\onlineStore\OnlineStore.Engine\obj\Debug\OnlineStore.Engine.pdb
